@@ -1,0 +1,16 @@
+# Build output
+scheduler_sim
+*.o
+*.a
+*.so
+*.out
+build/
+dist/
+coverage/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
